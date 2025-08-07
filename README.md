@@ -1,4 +1,5 @@
 # Calculadora Científica Colorida
+![Vista previa de la calculadora](calculadoragif.gif)
 
 Esta es una calculadora científica con interfaz colorida desarrollada en HTML, CSS y JavaScript. Permite realizar operaciones básicas y científicas como raíz cuadrada, potencias, logaritmos, seno, coseno, etc.
 
@@ -21,3 +22,4 @@ Puedes modificar los colores y agregar más funciones científicas editando los 
 ## Autor
 
 Favio Alonso
+
